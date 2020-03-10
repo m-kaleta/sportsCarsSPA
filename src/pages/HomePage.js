@@ -27,8 +27,8 @@ class HomePage extends Component {
                 facilis a distinctio illum ex aspernatur voluptatem expedita
                 nam atque magnam.</p>
             </div>
-            <div className="flota">
-                <h1 className="flota__title">Flota</h1>
+            <div className="tajtl">
+                <h1 className="tajtl__title">Flota</h1>
             </div>
             <Slider />
             <div className="socials">
