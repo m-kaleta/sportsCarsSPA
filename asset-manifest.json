@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/sportsCarsSPA/static/css/main.2edffac2.chunk.css",
+    "main.js": "/sportsCarsSPA/static/js/main.8bda2164.chunk.js",
+    "main.js.map": "/sportsCarsSPA/static/js/main.8bda2164.chunk.js.map",
+    "runtime-main.js": "/sportsCarsSPA/static/js/runtime-main.6bb13635.js",
+    "runtime-main.js.map": "/sportsCarsSPA/static/js/runtime-main.6bb13635.js.map",
+    "static/js/2.f1891adb.chunk.js": "/sportsCarsSPA/static/js/2.f1891adb.chunk.js",
+    "static/js/2.f1891adb.chunk.js.map": "/sportsCarsSPA/static/js/2.f1891adb.chunk.js.map",
+    "index.html": "/sportsCarsSPA/index.html",
+    "precache-manifest.b66385a1275086717e27d72df574a1ab.js": "/sportsCarsSPA/precache-manifest.b66385a1275086717e27d72df574a1ab.js",
+    "service-worker.js": "/sportsCarsSPA/service-worker.js",
+    "static/css/main.2edffac2.chunk.css.map": "/sportsCarsSPA/static/css/main.2edffac2.chunk.css.map",
+    "static/js/2.f1891adb.chunk.js.LICENSE.txt": "/sportsCarsSPA/static/js/2.f1891adb.chunk.js.LICENSE.txt",
+    "static/media/audirs7640.jpg": "/sportsCarsSPA/static/media/audirs7640.7a03beb2.jpg",
+    "static/media/aventador640.jpg": "/sportsCarsSPA/static/media/aventador640.48a75a0f.jpg",
+    "static/media/bentley640.jpg": "/sportsCarsSPA/static/media/bentley640.e08b031d.jpg",
+    "static/media/bmwm4640.jpg": "/sportsCarsSPA/static/media/bmwm4640.0d7c15e8.jpg",
+    "static/media/style.css": "/sportsCarsSPA/static/media/homeav640.b5738af8.jpg",
+    "static/media/mclaren640.jpg": "/sportsCarsSPA/static/media/mclaren640.be6c0f5d.jpg",
+    "static/media/mercedes640.jpg": "/sportsCarsSPA/static/media/mercedes640.b2d4402b.jpg",
+    "static/media/mustang640.jpg": "/sportsCarsSPA/static/media/mustang640.92631df6.jpg",
+    "static/media/porsche-911640.jpg": "/sportsCarsSPA/static/media/porsche-911640.b7872de5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bb13635.js",
+    "static/js/2.f1891adb.chunk.js",
+    "static/css/main.2edffac2.chunk.css",
+    "static/js/main.8bda2164.chunk.js"
+  ]
+}
