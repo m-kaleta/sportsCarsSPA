@@ -1,0 +1,118 @@
+
+
+.contact {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    &__title {
+        text-align: center;
+        color: white;
+        text-transform: uppercase;
+        margin: 50px auto 20px;
+        width: 100%;
+        @include mq(medium) {
+            font-size: 35px;
+        }
+    }
+}
+
+.cntbx {
+    border: 2px solid black;
+    width: 90%;
+    min-height: 100px;
+    background-color: black;
+    border-radius: 20px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 50px auto;
+    @include mq(medium) {
+        width: 70%;
+    }
+    @include mq(large) {
+        height: 65vh;
+    }
+}
+
+.infbx {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    @include mq(large) {
+        width: 45%;
+        height: 30vh;
+        margin: 60px 0;
+    }
+    &__title {
+        color: orange;
+        text-align: center;
+        width: 100%;
+        margin: 20px auto;
+        @include mq(medium) {
+            font-size: 35px;
+        }
+    }
+    &__info {
+        color: white;
+        width: 100%;
+        text-align: center;
+    }
+    &__info:nth-of-type(2),
+    &__info:nth-of-type(5),
+    &__info:nth-of-type(6){
+        color: white;
+        width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+}
+
+@mixin inputStyle {
+        width: 100%;
+        border-radius: 10px;
+        padding: 5px 10px;
+        background-color: rgb(44, 44, 44);
+        border: none;
+        color: white;
+        transition: .3s;
+        &:hover{
+            box-shadow: 0 0 10px 4px black;
+        }
+}
+
+.form {
+    background-color: orange;
+    border-radius: 20px;
+    width: 90%;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 20px auto 50px auto;
+    @include mq(large) {
+        width: 47%;
+        height: 50vh;
+        margin: 60px 10px;
+    }
+    &__input {
+        @include inputStyle;
+        }
+    &__text {
+        @include inputStyle;
+        width: 100%;
+    }
+    &__title {
+        width: 100%;
+        margin: 10px auto;
+    }
+    &__button {
+        @include inputStyle;
+        width: 60%;
+        margin:10px auto;
+        border-radius: 20px;
+        cursor: pointer;
+        &:hover{
+            box-shadow: 0 0 10px 4px white;
+        }
+    }
+}

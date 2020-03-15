@@ -16,19 +16,23 @@ class HomePage extends Component {
                 </div>
             </div>
             <div className="about">
-                <h1 className="about__us">Warunki wynajmu</h1>
-                <p className="about__text1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos autem omnis,
+                <div className="info1">
+                <h1 className="info1__us">Warunki wynajmu</h1>
+                <p className="info1__text1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos autem omnis,
                 nihil dolor hic temporibus libero quod, ducimus reprehenderit,
                 facilis a distinctio illum ex aspernatur voluptatem expedita
                 nam atque magnam.</p>
-                <h1 className="about__us">O nas</h1>
-                <p className="about__text1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos autem omnis,
+                </div>
+                <div className="info2">
+                <h1 className="info2__us">O nas</h1>
+                <p className="info2__text1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos autem omnis,
                 nihil dolor hic temporibus libero quod, ducimus reprehenderit,
                 facilis a distinctio illum ex aspernatur voluptatem expedita
                 nam atque magnam.</p>
+                </div>
             </div>
             <div className="tajtl">
-                <h1 className="tajtl__title">Flota</h1>
+                <h1 className="tajtl__title">Galeria</h1>
             </div>
             <Slider />
             <div className="socials">

@@ -1,6 +1,5 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
-import img1 from '../images/logo.jpg'
 
 const handleHamburger = () => {
     const hamburger = document.getElementById("hamburger")
@@ -34,9 +33,6 @@ const Navigation = () => {
             </span>
         </button>
         <div className="navigation" id="navigation">
-            <div className="imgbox">
-                <img className="imgbox__img" src={img1} alt="s"/>
-            </div>
             <ul className="navigation__list">
                 {menu}
             </ul>

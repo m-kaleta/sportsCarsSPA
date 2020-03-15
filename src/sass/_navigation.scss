@@ -65,6 +65,7 @@
     transform: translateY(-200px);
     transition: .3s ease-in-out;
     background-color: rgba(0, 0, 0, 0.7);
+    overflow: hidden;
     z-index: 1;
     &__list {
         list-style: none;
@@ -87,15 +88,6 @@
         bottom: 20px;
         right: 20px;
         font-size: 30px;
-    }
-}
-
-.imgbox {
-    display: flex;
-    justify-content: center;
-    background-color: black;
-    &__img {
-        width: 30%;
     }
 }
 

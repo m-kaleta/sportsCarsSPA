@@ -19,7 +19,7 @@ const FlotaPage = () => {
                 <div className="cars__border1"></div>
                 <div className="car">
                     <div className="imgbx">
-                    <img  className="imgbx__img" cars__img src={img1} alt=""/>
+                    <img  className="imgbx__img" src={img1} alt="audi"/>
                     </div>
                 <h3 className="car__name">Audi</h3>
                 <h4 className="car__model">Rs7</h4>
@@ -46,7 +46,7 @@ const FlotaPage = () => {
                 </div>
                 <div className="car">
                     <div className="imgbx">
-                    <img  className="imgbx__img" cars__img src={img2} alt=""/>
+                    <img  className="imgbx__img" src={img2} alt="lambo"/>
                     </div>
                 <h3 className="car__name">Lamborghini</h3>
                 <h4 className="car__model">Aventador</h4>
@@ -73,7 +73,7 @@ const FlotaPage = () => {
                 </div>
                 <div className="car">
                     <div className="imgbx">
-                    <img  className="imgbx__img" cars__img src={img3} alt=""/>
+                    <img  className="imgbx__img" src={img3} alt="bmw"/>
                     </div>
                 <h3 className="car__name">BMW</h3>
                 <h4 className="car__model">M4</h4>
@@ -100,7 +100,7 @@ const FlotaPage = () => {
                 </div>
                 <div className="car">
                     <div className="imgbx">
-                    <img  className="imgbx__img" cars__img src={img4} alt=""/>
+                    <img  className="imgbx__img" src={img4} alt="mercedes"/>
                     </div>
                 <h3 className="car__name">Mercedes</h3>
                 <h4 className="car__model">AMG GTS</h4>
@@ -127,7 +127,7 @@ const FlotaPage = () => {
                 </div>
                 <div className="car">
                     <div className="imgbx">
-                    <img  className="imgbx__img" cars__img src={img5} alt=""/>
+                    <img  className="imgbx__img" src={img5} alt="porsche"/>
                     </div>
                 <h3 className="car__name">Porsche</h3>
                 <h4 className="car__model">911s</h4>
@@ -154,7 +154,7 @@ const FlotaPage = () => {
                 </div>
                 <div className="car">
                     <div className="imgbx">
-                    <img  className="imgbx__img" cars__img src={img6} alt=""/>
+                    <img  className="imgbx__img" src={img6} alt="mclaren"/>
                     </div>
                 <h3 className="car__name">McLaren</h3>
                 <div className="price">
@@ -180,7 +180,7 @@ const FlotaPage = () => {
                 </div>
                 <div className="car">
                     <div className="imgbx">
-                    <img  className="imgbx__img" cars__img src={img7} alt=""/>
+                    <img  className="imgbx__img" src={img7} alt="ford"/>
                     </div>
                 <h3 className="car__name">Ford</h3>
                 <h4 className="car__model">Mustang</h4>
@@ -207,7 +207,7 @@ const FlotaPage = () => {
                 </div>
                 <div className="car">
                     <div className="imgbx">
-                    <img  className="imgbx__img" cars__img src={img8} alt=""/>
+                    <img  className="imgbx__img" src={img8} alt="bentley"/>
                     </div>
                 <h3 className="car__name">Bentley</h3>
                 <div className="price">
@@ -231,6 +231,16 @@ const FlotaPage = () => {
                     <div className="price__border2"></div>
                     </div>
                 </div>
+            </div>
+            <div className="socials">
+                <div className="socials__icon">
+                    <i className="fab fa-github"></i>
+                    <i className="fab fa-facebook-f"></i>
+                    <i className="fab fa-youtube"></i>
+                </div>
+            </div>
+            <div className="footer">
+                <p className="footer__author">Copyright © All rights reserved </p>
             </div>
         </div>
         </>
