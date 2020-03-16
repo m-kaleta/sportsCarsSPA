@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sportsCarsSPA/static/css/main.2edffac2.chunk.css",
+    "main.css": "/sportsCarsSPA/static/css/main.e433bf7e.chunk.css",
     "main.js": "/sportsCarsSPA/static/js/main.8bda2164.chunk.js",
     "main.js.map": "/sportsCarsSPA/static/js/main.8bda2164.chunk.js.map",
     "runtime-main.js": "/sportsCarsSPA/static/js/runtime-main.6bb13635.js",
@@ -8,9 +8,9 @@
     "static/js/2.f1891adb.chunk.js": "/sportsCarsSPA/static/js/2.f1891adb.chunk.js",
     "static/js/2.f1891adb.chunk.js.map": "/sportsCarsSPA/static/js/2.f1891adb.chunk.js.map",
     "index.html": "/sportsCarsSPA/index.html",
-    "precache-manifest.b66385a1275086717e27d72df574a1ab.js": "/sportsCarsSPA/precache-manifest.b66385a1275086717e27d72df574a1ab.js",
+    "precache-manifest.b56651f173f19bef04a86a7fa304def8.js": "/sportsCarsSPA/precache-manifest.b56651f173f19bef04a86a7fa304def8.js",
     "service-worker.js": "/sportsCarsSPA/service-worker.js",
-    "static/css/main.2edffac2.chunk.css.map": "/sportsCarsSPA/static/css/main.2edffac2.chunk.css.map",
+    "static/css/main.e433bf7e.chunk.css.map": "/sportsCarsSPA/static/css/main.e433bf7e.chunk.css.map",
     "static/js/2.f1891adb.chunk.js.LICENSE.txt": "/sportsCarsSPA/static/js/2.f1891adb.chunk.js.LICENSE.txt",
     "static/media/audirs7640.jpg": "/sportsCarsSPA/static/media/audirs7640.7a03beb2.jpg",
     "static/media/aventador640.jpg": "/sportsCarsSPA/static/media/aventador640.48a75a0f.jpg",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.6bb13635.js",
     "static/js/2.f1891adb.chunk.js",
-    "static/css/main.2edffac2.chunk.css",
+    "static/css/main.e433bf7e.chunk.css",
     "static/js/main.8bda2164.chunk.js"
   ]
 }
