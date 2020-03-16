@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ee7aaa7b163009e52caf8661bc0f8f7a",
+    "revision": "c6abe8d3af83054062f0d117b00fb5da",
     "url": "/sportsCarsSPA/index.html"
   },
   {
-    "revision": "8d14fa0bccad7da2fd7c",
+    "revision": "1865675b7c02b3cd8f9f",
     "url": "/sportsCarsSPA/static/css/main.e433bf7e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sportsCarsSPA/static/js/2.f1891adb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8d14fa0bccad7da2fd7c",
-    "url": "/sportsCarsSPA/static/js/main.8bda2164.chunk.js"
+    "revision": "1865675b7c02b3cd8f9f",
+    "url": "/sportsCarsSPA/static/js/main.d137ef40.chunk.js"
   },
   {
     "revision": "19a302200d9719400f64",
